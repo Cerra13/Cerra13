@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sarah! <br/><a 
-href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Lean Six Sigma Green Belt|LSS Instructor|Healthcare Process Improvement|Project Manager|Data Analyst</a>
+href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Lean Six Sigma Green Belt|Project Manager|Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
@@ -10,7 +10,7 @@ href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Lean Six Sigma Green B
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng/?token=d201303e-cc52-40e4-b4f8-bb2213dda722&otp_code=916044)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=375b6a76-a99f-4900-9b59-6bd65d7cb370)
 
 
 <h2>📱Connect with me:</h2>
