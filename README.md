@@ -7,7 +7,7 @@
 
 - <b>💾SQL Projects:</b> [Demonstrating SQL Techniques](https://github.com/Cerra13/SQL_Techniques)
 - <b>💾PowerBI Projects:</b> (Coming Soon)
-- 
+- <b>💾Excel Projects:</b> (Coming Soon)
 
 <h2>📚Certifications:</h2>
 
