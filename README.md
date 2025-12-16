@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Sarah! <br/><a 
+href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Lean Six Sigma Green Belt|LSS Instructor|Healthcare Process Improvement|Project Manager|Data Analyst</a>
+</h1>
 
-<!--
-**Cerra13/Cerra13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/8tzr69ng/?token=d201303e-cc52-40e4-b4f8-bb2213dda722&otp_code=916044)
+
+
+<h2>📱Connect with me:</h2>
+<a href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE" target="_blank">
+  <img align="left" alt="ENTER YOUR NAME HERE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
