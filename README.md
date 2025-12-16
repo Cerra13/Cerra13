@@ -4,8 +4,6 @@ href="COPY AND PASTE YOUR LINKEDIN PROFILE URL LINK HERE">Lean Six Sigma Green B
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](https://github.com/Cerra13/SQL_Techniques)
 - <b>💾SQL Project:</b> [Demonstrating SQL Techniques](https://github.com/Cerra13/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
