@@ -5,7 +5,7 @@
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Project:</b> [Demonstrating SQL Techniques](https://github.com/Cerra13/SQL_Techniques)
+- <b>💾SQL Projects:</b> [Demonstrating SQL Techniques](https://github.com/Cerra13/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
