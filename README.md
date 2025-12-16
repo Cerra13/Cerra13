@@ -6,6 +6,8 @@
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Projects:</b> [Demonstrating SQL Techniques](https://github.com/Cerra13/SQL_Techniques)
+- <b>💾PowerBI Projects:</b> (Coming Soon)
+- 
 
 <h2>📚Certifications:</h2>
 
